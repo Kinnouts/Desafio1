@@ -1,0 +1,16 @@
+{
+    "1": {
+        "idp": 1,
+        "nombre": "pure de tomate",
+        "precio": 356.23,
+        "stock": 34,
+        "fecha_caducidad": "2024-09-23"
+    },
+    "2": {
+        "idp": 2,
+        "nombre": "tostadora",
+        "precio": 50000.0,
+        "stock": 20,
+        "potencia_consumida": 50
+    }
+}
